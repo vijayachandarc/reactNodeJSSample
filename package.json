@@ -1,0 +1,23 @@
+{
+  "name": "com.firstsample",
+  "version": "1.0.0",
+  "description": "my first sample code",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayachandarc/reactNodeJSSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayachandarc/reactNodeJSSample/issues"
+  },
+  "homepage": "https://github.com/vijayachandarc/reactNodeJSSample#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
