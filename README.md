@@ -1,2 +1,2 @@
 # reactNodeJSSample
-First react nodejs sample program
+Nodejs twitter bot
